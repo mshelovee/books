@@ -1,0 +1,10 @@
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\bin\Debug\books examples • 96.exe.config
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\bin\Debug\books examples • 96.exe
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\bin\Debug\books examples • 96.pdb
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books examples • 96.csproj.AssemblyReference.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books_examples___96.Form1.resources
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books_examples___96.Properties.Resources.resources
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books examples • 96.csproj.GenerateResource.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books examples • 96.csproj.CoreCompileInputs.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books examples • 96.exe
+C:\Users\tenge\OneDrive\Masaüstü\halley\books examples • 96\books examples • 96\obj\Debug\books examples • 96.pdb
